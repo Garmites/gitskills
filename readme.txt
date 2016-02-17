@@ -5,3 +5,4 @@ git checkout master
 git checkout -b keyang1
 dev
 d盘dev
+/usr/bin/env
